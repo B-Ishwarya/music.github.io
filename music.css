@@ -1,0 +1,233 @@
+.picture{
+    background-image: url("https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?w=900&t=st=1670257117~exp=1670257717~hmac=06a1497d5ac258bc226433a53705e9febab337e91066bb5c59e89043ae0ee086");
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 250vh;
+}
+.pic{
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}
+.navbar{
+    height: 100px;
+}
+.navbar-brand{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.heading1{
+    font-family:cursive;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bolder;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.para{
+    font-size: 30px;
+    font-family:cursive;
+    font-weight: bolder;
+    color: white;
+    padding-left: 40px;
+}
+.para1{
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: bolder;
+    color: white;
+    padding-left: 40px;
+}
+.but{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.about{
+    background-image: url("//img.freepik.com/free-vector/glowing-shiny-musical-notes-background-design_1017-32856.jpg?w=900&t=st=1670259734~exp=1670260334~hmac=656e27121f6c2d1a6ba380288851e3361461fbccc983d0b037f26a3fefd6afeb;"); 
+    height: 500px; 
+}
+.head{
+    padding-top: 20px;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+.history{
+    color: white;
+    font-family: cursive;
+    text-align:center;
+}
+.container{
+    padding-top: 40px;
+   
+}
+.nav-item{
+    font-family: cursive;
+}
+
+
+.ganeshcard{
+    background-image: url("https://img.freepik.com/free-vector/beautiful-music-sound-golden-notes-background_1017-32310.jpg?w=900&t=st=1670263590~exp=1670264190~hmac=c77ad17597a7fb53f7035395b37e39c234be80bfe502ae0c1ee59240a277dc49");
+    background-size: cover;
+    height: 100vh;
+}.headfirst{
+    padding-bottom: 30px;
+    color:white;
+    font-family: cursive;
+    font-size: 50px;
+    padding-top: 120px;
+}
+
+.imageres{
+    height: 75px;
+    width: 100px;
+}
+
+.card{
+    background-color:#4d004d;
+    width: 180px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 160px;
+    align-items: center;
+    
+    margin: 15px;
+}
+.heading{
+    font-size: 18px;
+    font-family:cursive;
+    font-weight: bold;
+}
+.paragraph{
+    font-weight: bolder;
+}
+.veena{
+  background-image: url("https://img.freepik.com/premium-photo/indian-musical-instrument-sitar-lying-wooden-floor_132310-2729.jpg?w=740"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  content: justify;
+  height: 100vh; 
+}
+.veena1{
+    font-size: 50px;
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+.veena2{
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+.veena3{
+    text-align: center;
+}
+.flute{
+    background-image: url("https://images.unsplash.com/photo-1567184406952-9f6ba54cb614?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Zmx1dGV8ZW58MHx8MHx8&w=1000&q=80"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.dhol{
+    background-image: url("https://m.media-amazon.com/images/I/81dVnecS0aL.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.guitar{
+    background-image: url("https://img.freepik.com/free-photo/acoustic-guitar-chair-close-up-brown-guitar-black-wall_1150-21884.jpg?w=740&t=st=1670267352~exp=1670267952~hmac=2429e8eeb9ad9ff0413750c579ee6ba9c46356eaa41ef02a9dd205208f348ca3"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.sitar{
+    background-image: url("https://thumbs.dreamstime.com/b/instrument-case-sitar-string-traditional-indian-musical-close-up-75940301.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.tabla{
+    background-image: url("https://www.shutterstock.com/image-photo/ethnic-musical-instrument-tabla-interior-260nw-1062465104.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.violin{
+    background-image: url("https://rukminim1.flixcart.com/image/416/416/jql8fbk0/poster/w/2/z/medium-pwl-violin-wall-poster-13-19-inches-matte-finish-original-imaek7n4fmkw6emp.jpeg?q=70"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+.piano{
+    background-image: url("https://images.unsplash.com/photo-1571974599782-87624638275e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGhlJTIwcGlhbm98ZW58MHx8MHx8&w=1000&q=80"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 100vh; 
+}
+
+
+
+
+
+.bgimg{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/abstract-colorful-grunge-style-musical-background_1017-9869.jpg?w=740&t=st=1670408944~exp=1670409544~hmac=2232c8482ccf92459819c8d4cbe62dd43e99f992f4c242c6ea46800c95fea568");
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: justify;
+    height: 150vh; 
+    font-family: cursive;
+    color: white;
+    font-weight: bolders;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.musischead{
+    text-align: center;
+    font-family:cursive;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 25px;
+
+}
+.layoutcard{
+    background-image: url("https://img.freepik.com/premium-vector/abstract-equalizer-purple-background-with-music-notes_1302-28583.jpg?w=740");
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.music5{
+    color:white;
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.musicpara{
+    color: darkgreens;
+    font-family: cursive;
+    font-size: 20px;
+}
+.musicimg{
+    width: 150px;
+    height: 150px;
+}
+.but1{
+    text-align: center;
+}
+.heading6{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+}
